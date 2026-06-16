@@ -1,0 +1,11 @@
+customer_id,customer_name,email,city,state,country,signup_date
+C1001,Amit Sharma,amit@gmail.com,Delhi,Delhi,India,2024-01-10
+C1002,Priya Singh,priya@gmail.com,Mumbai,Maharashtra,India,2024-01-15
+C1003,Rahul Verma,rahul@gmail.com,Bangalore,Karnataka,India,2024-02-01
+C1004,Neha Gupta,neha@gmail.com,Chennai,Tamil Nadu,India,2024-02-10
+C1005,Arjun Patel,arjun@gmail.com,Ahmedabad,Gujarat,India,2024-03-05
+C1006,Ananya Roy,ananya@gmail.com,Kolkata,West Bengal,India,2024-03-12
+C1007,Karan Mehta,karan@gmail.com,Pune,Maharashtra,India,2024-04-01
+C1008,Sneha Jain,sneha@gmail.com,Jaipur,Rajasthan,India,2024-04-15
+C1009,Vikram Rao,vikram@gmail.com,Hyderabad,Telangana,India,2024-05-01
+C1010,Pooja Nair,pooja@gmail.com,Kochi,Kerala,India,2024-05-15
