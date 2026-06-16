@@ -1,0 +1,11 @@
+ticket_id,customer_id,ticket_date,category,priority,status
+T1001,C1001,2024-06-05,Delivery,Medium,Closed
+T1002,C1002,2024-06-08,Payment,High,Closed
+T1003,C1003,2024-06-09,Refund,High,Open
+T1004,C1001,2024-06-11,Product Issue,Medium,Closed
+T1005,C1004,2024-06-14,Warranty,Low,Closed
+T1006,C1005,2024-06-18,Delivery,Medium,Open
+T1007,C1006,2024-06-20,Payment,High,Closed
+T1008,C1007,2024-06-22,Refund,High,Open
+T1009,C1008,2024-06-25,Product Issue,Medium,Closed
+T1010,C1009,2024-06-27,Delivery,Low,Closed
